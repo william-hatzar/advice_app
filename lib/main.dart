@@ -81,9 +81,9 @@ class _LandingState extends State<Landing> {
                       ),
                       const SizedBox(height: 20.0),
                       Padding(
-                        padding: const EdgeInsets.all(13.0),
+                        padding:const  EdgeInsets.all(13.0),
                         child: Text(
-                          '''"$advice"''',
+                          '"$advice"',
                           textAlign: TextAlign.center,
                           style: const TextStyle(
                             fontFamily: "Manrope",
